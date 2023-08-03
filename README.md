@@ -1,4 +1,8 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Gabriel Ignatius Situmeang**.\
+
+Saya seorang **Mahasiswa Jurusan Teknik Rekayasa Perangkat Lunak**
 
 <!--
 **GabrielSitumeang/GabrielSitumeang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
