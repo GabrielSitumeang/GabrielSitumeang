@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gabriel Ignatius Situmeang**.\
+Perkenalkan nama saya **Gabriel Ignatius Situmeang**.
 
 Saya seorang **Mahasiswa Jurusan Teknik Rekayasa Perangkat Lunak**
 
