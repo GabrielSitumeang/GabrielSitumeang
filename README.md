@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Gabriel.
 
-A Student who loves creating and sharing projects about web and mobile technology! I enjoy Kotlin/Dart or PHP to make it the primary language for creating projects.
+A Student who loves creating and sharing projects about web and mobile technology! I enjoy Kotlin/Dart or PHP/JS to make it the primary language for creating projects.
 
 <p align="left">
 <a href="https://github.com/GabrielSitumeang">
