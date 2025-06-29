@@ -10,10 +10,6 @@ Currently focusing on building mobile applications with **Flutter (Dart)** and d
 - 🔹 **Web Development:** Laravel (PHP), JavaScript, HTML, CSS
 - 🔹 **Tools & Others:** Git, VS Code, Postman, Figma, Firebase
 
----
-
-### 📊 My GitHub Statistics
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielSitumeang&show_icons=true&theme=dark&rank_icon=github&hide_title=true)
 
 ---
 
