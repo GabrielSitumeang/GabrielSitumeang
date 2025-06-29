@@ -1,7 +1,14 @@
 # Hi! 👋 I'm Gabriel.
 
-A Student who loves creating and sharing projects about web and mobile technology!  
-I enjoy Kotlin/Dart or PHP to make it the primary language for creating projects.
+I'm a student who loves creating and sharing projects about **mobile** and **web** technology.  
+Currently focusing on building mobile applications with **Flutter (Dart)** and developing web applications using **Laravel (PHP)** and **JavaScript**.
+
+---
+
+### 🚀 Tech Stack I Use
+- 🔹 **Mobile Development:** Flutter (Dart)
+- 🔹 **Web Development:** Laravel (PHP), JavaScript, HTML, CSS
+- 🔹 **Tools & Others:** Git, VS Code, Postman, Figma
 
 ---
 
@@ -12,3 +19,16 @@ I enjoy Kotlin/Dart or PHP to make it the primary language for creating projects
 
 ### 💻 My Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSitumeang&layout=compact&theme=dark)
+
+---
+
+### 🏆 GitHub Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=GabrielSitumeang&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 Get in Touch
+- 📧 Email: yourname@email.com
+- 💼 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gabriel-i-situmeang/))
+- 🌐 Portfolio: [yourwebsite.com]([https://yourwebsite.com](https://portofolio-gabrielsitumeang.vercel.app/))
+
