@@ -29,6 +29,6 @@ Currently focusing on building mobile applications with **Flutter (Dart)** and d
 
 ### 📫 Get in Touch
 - 📧 Email: yourname@email.com
-- 💼 LinkedIn: ([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gabriel-i-situmeang/))
-- 🌐 Portfolio: [yourwebsite.com]([https://yourwebsite.com](https://portofolio-gabrielsitumeang.vercel.app/))
+- 💼 LinkedIn: [https://www.linkedin.com/in/gabriel-i-situmeang/]
+- 🌐 Portfolio: https://portofolio-gabrielsitumeang.vercel.app/
 
