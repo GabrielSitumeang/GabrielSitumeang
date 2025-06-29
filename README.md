@@ -8,7 +8,7 @@ Currently focusing on building mobile applications with **Flutter (Dart)** and d
 ### 🚀 Tech Stack I Use
 - 🔹 **Mobile Development:** Flutter (Dart)
 - 🔹 **Web Development:** Laravel (PHP), JavaScript, HTML, CSS
-- 🔹 **Tools & Others:** Git, VS Code, Postman, Figma
+- 🔹 **Tools & Others:** Git, VS Code, Postman, Figma, Firebase
 
 ---
 
@@ -17,8 +17,10 @@ Currently focusing on building mobile applications with **Flutter (Dart)** and d
 
 ---
 
-### 💻 My Programming Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSitumeang&layout=compact&theme=dark)
+### 📊 My Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSitumeang&layout=compact&theme=dark&langs_count=8)
+
 
 ---
 
@@ -28,7 +30,7 @@ Currently focusing on building mobile applications with **Flutter (Dart)** and d
 ---
 
 ### 📫 Get in Touch
-- 📧 Email: yourname@email.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/gabriel-i-situmeang/]
+- 📧 Email: situmeanggabriel0@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-i-situmeang/
 - 🌐 Portfolio: https://portofolio-gabrielsitumeang.vercel.app/
 
