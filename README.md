@@ -16,13 +16,6 @@
 - 🔹 **Web Development:** Laravel (PHP), HTML, CSS
 - 🔹 **Tools & Others:** Git, VS Code, Postman, Figma, Firebase
 
-
-
----
-
-### 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=GabrielSitumeang&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 📫 Get in Touch
